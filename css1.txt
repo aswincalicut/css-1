@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-image: url("pexels-photo-1076885.jpeg");
+                margin-left:100px;
+                background-size:1700px;
+                background-repeat: no-repeat;
+                
+            }
+            h3{
+                color:red;
+            }
+            
+           
+            h1{
+                color:rgb(34, 20, 231);
+                
+                
+                
+                
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1>
+           <center>  ..WINTERFELL.. </center>
+            </h1>
+            <h1> 
+               <center> VI KINGS</center>
+            </h1>
+            <h1><ins> RAGNAR LOTHBROK</ins></h1>
+            <h3>I shall not enter odin's hall with fear </h3>
+            <h1><ins> BJORN IRONSIDE</ins></h1>
+            <h3><i> He is a beast</i></h3>
+        
+       
+        
+        
+        
+        
+    </body>
+
+</html>
